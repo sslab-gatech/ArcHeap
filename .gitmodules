@@ -1,0 +1,3 @@
+[submodule "tool/villoc"]
+	path = tool/villoc
+	url = https://github.com/wapiflapi/villoc.git
