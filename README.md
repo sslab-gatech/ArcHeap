@@ -26,20 +26,17 @@ Please check our [artifact](artifact).
 - [Several other techniques](techniques)
 
 ## Authors
-- Insu Yun <insu@gatech.edu>
-- Dhaval Kapil <me@dhavalkapil.com>
-- Taesoo Kim <taesoo@gatech.edu>
+- Insu Yun (insu@gatech.edu)
+- Dhaval Kapil (me@dhavalkapil.com)
+- Taesoo Kim (taesoo@gatech.edu)
 
 ## Publications
 ```
-Automatic Techniques to Systematically Discover New Heap Exploitation Primitives
-
 @inproceedings{yun:archeap,
   title        = {{Automatic Techniques to Systematically Discover New Heap Exploitation Primitives}},
   author       = {Insu Yun and Dhaval Kapil and Taesoo Kim},
   booktitle    = {Proceedings of the 29th USENIX Security Symposium (Security)},
   month        = aug,
   year         = 2020,
-  address      = {Boston, MA},
 }
 ```
