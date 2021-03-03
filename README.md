@@ -5,12 +5,14 @@
 
 ## Installation
 ```bash
+$ ./setup.sh
 $ ./install_dependencies.sh
 $ ./build.sh
 ```
 
 ## Installation using Docker
 ```bash
+$ ./setup.sh
 $ docker build -t archeap .
 $ docker run -it archeap /bin/bash
 ```
